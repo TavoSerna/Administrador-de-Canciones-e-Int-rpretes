@@ -1,0 +1,588 @@
+# depslib dependency file v1.0
+1664574746 source:c:\users\gusta\desktop\parcial canciones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"configuracion.h"
+	"Submenus.h"
+
+1664573983 c:\users\gusta\desktop\parcial canciones\cargar_cadena.h
+
+1664749994 c:\users\gusta\desktop\parcial canciones\clase_fecha.h
+
+1664750559 c:\users\gusta\desktop\parcial canciones\clase_cancion.h
+
+1664745147 c:\users\gusta\desktop\parcial canciones\funciones_cancion.h
+
+1664750638 c:\users\gusta\desktop\parcial canciones\clase_interprete.h
+
+1664748536 c:\users\gusta\desktop\parcial canciones\funciones_interprete.h
+
+1664751038 c:\users\gusta\desktop\parcial canciones\clase_genero.h
+
+1664748745 c:\users\gusta\desktop\parcial canciones\funciones_genero.h
+
+1664570128 c:\users\gusta\desktop\parcial canciones\configuracion.h
+
+1664575253 c:\users\gusta\desktop\parcial canciones\submenus.h
+
+1664760632 source:c:\users\gusta\desktop\parcial canciones 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1664759113 c:\users\gusta\desktop\parcial canciones 3\cargar_cadena.h
+
+1664749994 c:\users\gusta\desktop\parcial canciones 3\clase_fecha.h
+
+1664751038 c:\users\gusta\desktop\parcial canciones 3\clase_genero.h
+
+1664748745 c:\users\gusta\desktop\parcial canciones 3\funciones_genero.h
+
+1664757317 c:\users\gusta\desktop\parcial canciones 3\clase_interprete.h
+
+1664748536 c:\users\gusta\desktop\parcial canciones 3\funciones_interprete.h
+
+1664751501 c:\users\gusta\desktop\parcial canciones 3\clase_cancion.h
+
+1664745147 c:\users\gusta\desktop\parcial canciones 3\funciones_cancion.h
+
+1664758734 c:\users\gusta\desktop\parcial canciones 3\configuracion.h
+
+1664762195 c:\users\gusta\desktop\parcial canciones 3\submenus.h
+
+1664764465 c:\users\gusta\desktop\parcial canciones 3\reportes.h
+
+1664760632 source:c:\users\gusta\desktop\parcial canciones 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1664759113 c:\users\gusta\desktop\parcial canciones 4\cargar_cadena.h
+
+1664749994 c:\users\gusta\desktop\parcial canciones 4\clase_fecha.h
+
+1664751038 c:\users\gusta\desktop\parcial canciones 4\clase_genero.h
+
+1664748745 c:\users\gusta\desktop\parcial canciones 4\funciones_genero.h
+
+1664757317 c:\users\gusta\desktop\parcial canciones 4\clase_interprete.h
+
+1664748536 c:\users\gusta\desktop\parcial canciones 4\funciones_interprete.h
+
+1664751501 c:\users\gusta\desktop\parcial canciones 4\clase_cancion.h
+
+1664745147 c:\users\gusta\desktop\parcial canciones 4\funciones_cancion.h
+
+1664758734 c:\users\gusta\desktop\parcial canciones 4\configuracion.h
+
+1664980773 c:\users\gusta\desktop\parcial canciones 4\reportes.h
+
+1664980632 c:\users\gusta\desktop\parcial canciones 4\submenus.h
+
+1664760632 source:c:\users\gusta\desktop\parcial canciones 5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1664759113 c:\users\gusta\desktop\parcial canciones 5\cargar_cadena.h
+
+1664749994 c:\users\gusta\desktop\parcial canciones 5\clase_fecha.h
+
+1664751038 c:\users\gusta\desktop\parcial canciones 5\clase_genero.h
+
+1664748745 c:\users\gusta\desktop\parcial canciones 5\funciones_genero.h
+
+1664757317 c:\users\gusta\desktop\parcial canciones 5\clase_interprete.h
+
+1664748536 c:\users\gusta\desktop\parcial canciones 5\funciones_interprete.h
+
+1664751501 c:\users\gusta\desktop\parcial canciones 5\clase_cancion.h
+
+1664745147 c:\users\gusta\desktop\parcial canciones 5\funciones_cancion.h
+
+1664758734 c:\users\gusta\desktop\parcial canciones 5\configuracion.h
+
+1664980773 c:\users\gusta\desktop\parcial canciones 5\reportes.h
+
+1664980632 c:\users\gusta\desktop\parcial canciones 5\submenus.h
+
+1665056772 source:c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1664759113 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\cargar_cadena.h
+
+1664749994 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\clase_fecha.h
+
+1664751038 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\clase_genero.h
+
+1664748745 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\funciones_genero.h
+
+1664757317 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\clase_interprete.h
+
+1664748536 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\funciones_interprete.h
+
+1664751501 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\clase_cancion.h
+
+1664745147 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\funciones_cancion.h
+
+1664758734 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\configuracion.h
+
+1665066158 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\reportes.h
+
+1665066015 c:\users\gusta\desktop\gustavo serna 1 parcial laboratorio 2\submenus.h
+
+1666881245 source:c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_genero.h"
+	"funciones_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_cancion.h"
+	"clase_pais.h"
+	"funciones_paises.h"
+	"clase_tipoInterprete.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1664759113 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\cargar_cadena.h
+
+1664749994 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_fecha.h
+
+1664751038 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_genero.h
+
+1664748745 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\funciones_genero.h
+
+1664757317 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_interprete.h
+
+1664748536 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\funciones_interprete.h
+
+1664751501 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_cancion.h
+
+1664745147 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\funciones_cancion.h
+
+1664758734 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\configuracion.h
+
+1666877136 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\reportes.h
+
+1666881257 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\submenus.h
+
+1666879336 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_pais.h
+
+1666880557 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\funciones_paises.h
+
+1666881049 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\clase_tipointerprete.h
+
+1666881187 c:\users\gusta\documents\utn\labo ii\gustavo serna 1 parcial laboratorio 2\funciones_tipointerprete.h
+
+1666906650 source:c:\users\gusta\desktop\gustavo serna 2 parcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\cargar_cadena.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_fecha.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_genero.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\funciones_genero.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_interprete.h
+
+1666907119 c:\users\gusta\desktop\gustavo serna 2 parcial\funciones_interprete.h
+
+1666907140 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_cancion.h
+
+1666907009 c:\users\gusta\desktop\gustavo serna 2 parcial\funciones_cancion.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_pais.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\funciones_paises.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\clase_tipointerprete.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\funciones_tipointerprete.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\configuracion.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\reportes.h
+
+1666906542 c:\users\gusta\desktop\gustavo serna 2 parcial\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\anda\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\anda\cargar_cadena.h
+
+1667413728 c:\users\gusta\desktop\anda\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\anda\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\anda\clase_tipointerprete.h
+
+1667413728 c:\users\gusta\desktop\anda\clase_genero.h
+
+1667415908 c:\users\gusta\desktop\anda\clase_interprete.h
+
+1667416052 c:\users\gusta\desktop\anda\funciones_interprete.h
+
+1667414152 c:\users\gusta\desktop\anda\clase_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda\funciones_genero.h
+
+1667416975 c:\users\gusta\desktop\anda\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\anda\funciones_tipointerprete.h
+
+1667413729 c:\users\gusta\desktop\anda\configuracion.h
+
+1667413728 c:\users\gusta\desktop\anda\reportes.h
+
+1667416311 c:\users\gusta\desktop\anda\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\anda 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\anda 2\cargar_cadena.h
+
+1667413728 c:\users\gusta\desktop\anda 2\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\anda 2\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\anda 2\clase_tipointerprete.h
+
+1667413728 c:\users\gusta\desktop\anda 2\clase_genero.h
+
+1667419860 c:\users\gusta\desktop\anda 2\clase_interprete.h
+
+1667420094 c:\users\gusta\desktop\anda 2\funciones_interprete.h
+
+1667418086 c:\users\gusta\desktop\anda 2\clase_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda 2\funciones_genero.h
+
+1667421673 c:\users\gusta\desktop\anda 2\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda 2\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\anda 2\funciones_tipointerprete.h
+
+1667422218 c:\users\gusta\desktop\anda 2\configuracion.h
+
+1667413728 c:\users\gusta\desktop\anda 2\reportes.h
+
+1667422178 c:\users\gusta\desktop\anda 2\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\anda 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\anda 3\cargar_cadena.h
+
+1667482798 c:\users\gusta\desktop\anda 3\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\anda 3\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\anda 3\clase_tipointerprete.h
+
+1667424090 c:\users\gusta\desktop\anda 3\clase_genero.h
+
+1667483032 c:\users\gusta\desktop\anda 3\clase_interprete.h
+
+1667480651 c:\users\gusta\desktop\anda 3\funciones_interprete.h
+
+1667482748 c:\users\gusta\desktop\anda 3\clase_cancion.h
+
+1667424227 c:\users\gusta\desktop\anda 3\funciones_genero.h
+
+1667482509 c:\users\gusta\desktop\anda 3\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda 3\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\anda 3\funciones_tipointerprete.h
+
+1667424272 c:\users\gusta\desktop\anda 3\configuracion.h
+
+1667479949 c:\users\gusta\desktop\anda 3\reportes.h
+
+1667483225 c:\users\gusta\desktop\anda 3\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\anda 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\anda 4\cargar_cadena.h
+
+1667482798 c:\users\gusta\desktop\anda 4\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\anda 4\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\anda 4\clase_tipointerprete.h
+
+1667485341 c:\users\gusta\desktop\anda 4\clase_genero.h
+
+1667483032 c:\users\gusta\desktop\anda 4\clase_interprete.h
+
+1667480651 c:\users\gusta\desktop\anda 4\funciones_interprete.h
+
+1667485150 c:\users\gusta\desktop\anda 4\clase_cancion.h
+
+1667485960 c:\users\gusta\desktop\anda 4\funciones_genero.h
+
+1667482509 c:\users\gusta\desktop\anda 4\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\anda 4\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\anda 4\funciones_tipointerprete.h
+
+1667424272 c:\users\gusta\desktop\anda 4\configuracion.h
+
+1667479949 c:\users\gusta\desktop\anda 4\reportes.h
+
+1667483225 c:\users\gusta\desktop\anda 4\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\serna_gustavo_parcial_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\serna_gustavo_parcial_2\cargar_cadena.h
+
+1667482798 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_tipointerprete.h
+
+1667485341 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_genero.h
+
+1667483032 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_interprete.h
+
+1667480651 c:\users\gusta\desktop\serna_gustavo_parcial_2\funciones_interprete.h
+
+1667485150 c:\users\gusta\desktop\serna_gustavo_parcial_2\clase_cancion.h
+
+1667485960 c:\users\gusta\desktop\serna_gustavo_parcial_2\funciones_genero.h
+
+1667482509 c:\users\gusta\desktop\serna_gustavo_parcial_2\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\serna_gustavo_parcial_2\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\serna_gustavo_parcial_2\funciones_tipointerprete.h
+
+1667424272 c:\users\gusta\desktop\serna_gustavo_parcial_2\configuracion.h
+
+1668693330 c:\users\gusta\desktop\serna_gustavo_parcial_2\reportes.h
+
+1668692882 c:\users\gusta\desktop\serna_gustavo_parcial_2\submenus.h
+
+1667413728 source:c:\users\gusta\desktop\serna_gustavo\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"cargar_cadena.h"
+	"clase_fecha.h"
+	"clase_pais.h"
+	"clase_tipoInterprete.h"
+	"clase_genero.h"
+	"clase_interprete.h"
+	"funciones_interprete.h"
+	"clase_cancion.h"
+	"funciones_genero.h"
+	"funciones_cancion.h"
+	"funciones_paises.h"
+	"funciones_tipoInterprete.h"
+	"configuracion.h"
+	"reportes.h"
+	"Submenus.h"
+
+1667413728 c:\users\gusta\desktop\serna_gustavo\cargar_cadena.h
+
+1667482798 c:\users\gusta\desktop\serna_gustavo\clase_fecha.h
+
+1667413729 c:\users\gusta\desktop\serna_gustavo\clase_pais.h
+
+1667413728 c:\users\gusta\desktop\serna_gustavo\clase_tipointerprete.h
+
+1667485341 c:\users\gusta\desktop\serna_gustavo\clase_genero.h
+
+1667483032 c:\users\gusta\desktop\serna_gustavo\clase_interprete.h
+
+1667480651 c:\users\gusta\desktop\serna_gustavo\funciones_interprete.h
+
+1667485150 c:\users\gusta\desktop\serna_gustavo\clase_cancion.h
+
+1667485960 c:\users\gusta\desktop\serna_gustavo\funciones_genero.h
+
+1667482509 c:\users\gusta\desktop\serna_gustavo\funciones_cancion.h
+
+1667413729 c:\users\gusta\desktop\serna_gustavo\funciones_paises.h
+
+1667413728 c:\users\gusta\desktop\serna_gustavo\funciones_tipointerprete.h
+
+1667424272 c:\users\gusta\desktop\serna_gustavo\configuracion.h
+
+1668693330 c:\users\gusta\desktop\serna_gustavo\reportes.h
+
+1668692882 c:\users\gusta\desktop\serna_gustavo\submenus.h
+
